@@ -1,0 +1,6 @@
+Amstrad CPC
+4Mhz z80/ 16 colors
+128 bytes reserved for the file header
+64kb compatible
+
+Let burn this stupid cat !!
